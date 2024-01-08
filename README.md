@@ -36,13 +36,13 @@ The dataset contains essential information crucial for analyzing and geo-visuali
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mobile-network-analysis.git
+   git clone https://github.com/VijayRajBilla/Geospatial-Analysis-of-Broadband-Networks.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd mobile-network-analysis
+   cd Geospatial-Analysis-of-Broadband-Networks
    ```
 
 3. Explore the Jupyter notebooks and Python scripts for detailed analyses and visualizations.
