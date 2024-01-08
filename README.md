@@ -29,6 +29,8 @@ The project employs a systematic set of methodologies, including data import and
 
 The dataset contains essential information crucial for analyzing and geo-visualization mobile networks in India. Interactive visualizations provide insights into operator distribution, tower density, and network trends.
 
+![image](https://github.com/VijayRajBilla/Geospatial-Analysis-of-Broadband-Networks/assets/155987589/72494583-6e19-42ae-915a-1f5c56e12636)
+
 ## How to Use
 
 1. Clone the repository:
